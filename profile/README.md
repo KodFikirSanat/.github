@@ -27,4 +27,4 @@
 +                       o                                                                                    
      ' .                                         o                                                           
 </pre>
-# UX, Redefined.
+# Solution Studio.
